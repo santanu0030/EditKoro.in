@@ -1,4 +1,5 @@
 Mini Project: Portfolio Page for "Editkaro.in"
+![image alt](https://github.com/santanu0030/EditKoro.in/blob/eef2ab6db1184ecf2c160ddf44ad77b83e09b3a8/Screenshot%202025-11-19%20091139.png)
 
 Objective: 
 Create an interactive and dynamic portfolio webpage for a real-world client, 
